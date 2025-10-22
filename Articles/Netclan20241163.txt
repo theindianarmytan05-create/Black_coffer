@@ -1,0 +1,36 @@
+Home Our Success Stories
+Our Success StoriesLifestyle & eCommerce
+Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+By Ajay Bidyarthy -
+June 26, 2021
+11314
+Client Background
+Client: A leading consulting firm in the USA
+Industry Type: Consulting
+Services: Management consultant
+Organization Size: 100+
+Project Objective
+The main objective of this project is to build the automation tool to buy product on amazon.
+Project Description
+This project is basically completed using selenium and Python. All we have done is write a python script for automation using Selenium.
+Make some clicks use logics to check item is in stock or not. If the item is in stock then it buys the product otherwise repeat the process again.
+Our Solution
+A simple python code which uses selenium web driver to do all work.
+Project Deliverables
+Python Code
+Tools used
+Selenium Webdriver
+Language/techniques used
+Python
+Skills used
+Web Scraping
+Selenium
+Project Snapshots
+Previous article
+Predictive Modelling, AI, ML Dashboards in Power BI
+Next article
+How does Big Data Help in Finance and the Growth of Large Firms?
+RELATED ARTICLESMORE FROM AUTHOR
+From Complexity to Clarity: Transforming Data into Decisions through Mixed Modelling
+AWS CodePipeline is utilized for automatically building and deploying Lambda functions in AWS
+Dockerize the AWS Lambda for serverless architecture
