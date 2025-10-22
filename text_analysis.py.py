@@ -11,6 +11,7 @@ import pyphen
 # ----------------------------
 # Scraper Class
 # ----------------------------
+class ArticleScraper
     def __init__(self, driver_path, headless=True):
         chrome_options = Options()
         if headless:
