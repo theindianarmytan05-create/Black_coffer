@@ -174,15 +174,6 @@ jupyter notebook EDA.ipynb
   * News → Neutral polarity, moderate complexity
 
 * **Anomalies**: ~5% articles with unusually high complexity or subjectivity
-
----
-
-## 🧑‍💼 About the Assignment
-
-* **Provider:** Blackcoffer Consulting Pvt. Ltd.
-* **Timeline:** 6 days
-* **Submission:** Python script (`.py`), Excel output, and instructions
-
 ---
 
 ## 🏁 Summary
